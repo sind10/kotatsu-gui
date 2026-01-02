@@ -31,7 +31,7 @@ kotlin {
 				implementation("io.ktor:ktor-client-core:2.3.6")
 				implementation("io.ktor:ktor-client-cio:2.3.6")
 				implementation("org.json:json:20220320")
-				implementation("com.github.KotatsuApp:kotatsu-parsers:41eea1c420")
+				implementation("com.github.Kotatsu-Redo:kotatsu-parsers-redo:09e2804")
 				implementation("com.squareup.okhttp3:okhttp:4.12.0")
 				implementation("com.squareup.okio:okio:3.4.0")
 				implementation("io.webfolder:quickjs:1.1.0")
